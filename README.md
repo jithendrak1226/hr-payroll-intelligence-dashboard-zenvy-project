@@ -79,6 +79,11 @@ The Power BI dashboard is a **single-page executive view** with **three visuals*
 
 This layout ensures **clarity, focus, and executive usability**.
 
+## 🖥 Dashboard Preview
+
+![HR Payroll Intelligence Dashboard](assets/hr_dashboard.png)
+
+
 ---
 
 ## 🧠 Executive Insights
